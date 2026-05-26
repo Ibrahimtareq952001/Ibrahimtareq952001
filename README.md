@@ -1,104 +1,133 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ibrahim%20Tareq&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Software%20Engineer%20%E2%80%94%20Building%20Systems%20That%20Scale&descAlignY=58&descSize=18&descColor=cbd5e1"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ibrahim+Tareq+%F0%9F%91%8B;Junior+Software+Engineer;Distributed+Systems+%7C+Full-Stack+%7C+ML%2FNLP;Building+things+that+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Distributed+Systems+%7C+Stream+Processing+%7C+Kafka+%26+Spark;Full-Stack+SaaS+%7C+TypeScript+%7C+React+%7C+Node.js;HPC+%7C+OpenMP+%26+MPI+%E2%80%94+14.1%C3%97+parallel+speedup;ML+%2F+NLP+%7C+Transformers+%7C+Q-LoRA+%7C+DPO;Computer+Engineering+%40+Alexandria+University+2026" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-tareq-aaa403223/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimtareq952@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimtarek_20588)
-[![Resume](https://img.shields.io/badge/Resume-PDF-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Ibrahimtareq952001/Resume/blob/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume_PDF-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Ibrahimtareq952001/Resume/blob/main/resume.pdf)
+![Profile Views](https://komarev.com/ghpvc/?username=Ibrahimtareq952001&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Computer Engineering graduate from **Alexandria University** (2026), passionate about building systems that scale. I work across the full stack — from distributed pipelines and SaaS platforms to HPC solvers and LLM fine-tuning.
-
-- 🎓 B.S. Computer & System Engineering — Alexandria University
-- 💼 Seeking an entry-level **Software Engineering** role
-- 🌍 Based in **Alexandria, Egypt**
-- ✍️ I write technical blogs on [Medium](https://medium.com/@ibrahimtarek_20588)
+```typescript
+const ibrahim = {
+  location:   "Alexandria, Egypt 🇪🇬",
+  education:  "B.S. Computer & System Engineering — Alexandria University (2026)",
+  focus:      ["Distributed Systems", "Full-Stack SaaS", "HPC", "ML / NLP"],
+  currentlyBuilding: "Contabo Cloud Portal — multi-tenant VPS reseller + CD platform",
+  lookingFor: "Entry-level Software Engineering role",
+  funFact:    "I parallelized a 3D seismic solver to 14.1× speedup with MPI 🚀",
+};
+```
 
 ---
 
-## Tech Stack
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ibrahimtareq952001/Ibrahimtareq952001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ibrahimtareq952001/Ibrahimtareq952001/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ibrahimtareq952001/Ibrahimtareq952001/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,c,bash&theme=dark" />
 
 **Web & Backend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,postgres,mysql,redis&theme=dark" />
 
 **Distributed Systems & DevOps**
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,kafka&theme=dark" />
 
-**ML / AI**
+**ML / AI & Data**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat-square&logo=apache&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**Contabo Cloud Portal**](https://github.com/Ibrahimtareq952001/contabo) | Multi-tenant SaaS: resellers manage VPS + Git-based CD pipeline, 3-tier RBAC | TypeScript · React · Node.js · PostgreSQL · Docker |
-| **IoT Weather Station** | 10-station pipeline: Kafka → Kafka Streams → BitCask/Parquet → Kubernetes | Java · Kafka · ElasticSearch · Kubernetes |
-| **TPC-H Data Warehouse** | MySQL → Spark ELT — **19.5× query speedup** over baseline | Python · Apache Spark · NiFi · Parquet |
-| **RTM Wave Solver** | 3D seismic solver: OpenMP **7.2×** · MPI **14.1×** speedup | C · OpenMP · MPI · HDF5 |
-| **Java-to-Bytecode Compiler** | NFA→DFA lexer + LL(1) parser — full compiler pipeline | C++ · Finite Automata · CFG |
-| **NLP Course Labs** | N-grams → Word2Vec → Transformer NMT → Q-LoRA + DPO fine-tuning | PyTorch · HuggingFace · PEFT |
+| 🔗 Project | 💡 What it does | ⚡ Stack |
+|-----------|----------------|---------|
+| [**Contabo Cloud Portal**](https://github.com/Ibrahimtareq952001/contabo) | Multi-tenant SaaS — resellers manage VPS + Git-based CD pipeline, 3-tier RBAC | `TypeScript` `React` `Node.js` `PostgreSQL` `Docker` |
+| **IoT Weather Station** | 10-station pipeline: Kafka → Kafka Streams → BitCask/Parquet → Kubernetes | `Java` `Kafka` `ElasticSearch` `Kibana` `K8s` |
+| **TPC-H Data Warehouse** | MySQL → Spark ELT — **19.5× query speedup** over baseline | `Python` `Apache Spark` `NiFi` `Parquet` |
+| **RTM Wave Solver** | 3D seismic solver — OpenMP **7.2×** · MPI **14.1×** speedup | `C` `OpenMP` `MPI` `HDF5` |
+| **Java-to-Bytecode Compiler** | NFA→DFA lexer + LL(1) parser — full compiler pipeline in C++ | `C++` `Finite Automata` `CFG` |
+| **NLP Course Labs** | N-grams → Word2Vec → Transformer NMT → Q-LoRA + DPO fine-tuning | `PyTorch` `HuggingFace` `PEFT` `wandb` |
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ibrahimtareq952001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimtareq952001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahimtareq952001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimtareq952001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Ibrahimtareq952001" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimtareq952001&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimtareq952001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
+## 🏆 Trophies
+
 <div align="center">
 
-*"Simplicity is deceptively complicated."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ibrahimtareq952001&color=0ea5e9&style=flat-square)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ibrahimtareq952001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ibrahimtareq952001&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
