@@ -82,12 +82,12 @@ const ibrahim = {
 
 | 🔗 Project | 💡 What it does | ⚡ Stack |
 |-----------|----------------|---------|
-| [**Contabo Cloud Portal**](https://github.com/Ibrahimtareq952001/contabo) | Multi-tenant SaaS — resellers manage VPS + Git-based CD pipeline, 3-tier RBAC | `TypeScript` `React` `Node.js` `PostgreSQL` `Docker` |
-| **IoT Weather Station** | 10-station pipeline: Kafka → Kafka Streams → BitCask/Parquet → Kubernetes | `Java` `Kafka` `ElasticSearch` `Kibana` `K8s` |
-| **TPC-H Data Warehouse** | MySQL → Spark ELT — **19.5× query speedup** over baseline | `Python` `Apache Spark` `NiFi` `Parquet` |
+| [**Contabo Cloud Portal**](https://github.com/Ibrahimtareq952001/CloudDeploy) | Multi-tenant SaaS — resellers manage VPS + Git-based CD pipeline, 3-tier RBAC | `TypeScript` `React` `Node.js` `PostgreSQL` `Docker` |
+| [**IoT Weather Station**](https://github.com/Ibrahimtareq952001/IoT-Weather-Station-Monitoring-Platform) | 10-station pipeline: Kafka → Kafka Streams → BitCask/Parquet → Kubernetes | `Java` `Kafka` `ElasticSearch` `Kibana` `K8s` |
+| [**TPC-H Data Warehouse**](https://github.com/Ibrahimtareq952001/OLAP) | MySQL → Spark ELT — **19.5× query speedup** over baseline | `Python` `Apache Spark` `NiFi` `Parquet` |
 | **RTM Wave Solver** | 3D seismic solver — OpenMP **7.2×** · MPI **14.1×** speedup | `C` `OpenMP` `MPI` `HDF5` |
-| **Java-to-Bytecode Compiler** | NFA→DFA lexer + LL(1) parser — full compiler pipeline in C++ | `C++` `Finite Automata` `CFG` |
-| **NLP Course Labs** | N-grams → Word2Vec → Transformer NMT → Q-LoRA + DPO fine-tuning | `PyTorch` `HuggingFace` `PEFT` `wandb` |
+| [**Java-to-Bytecode Compiler**](https://github.com/Ibrahimtareq952001/Compilar-Generator) | NFA→DFA lexer + LL(1) parser — full compiler pipeline in C++ | `C++` `Finite Automata` `CFG` |
+| [**NLP Course Labs**](https://github.com/Ibrahimtareq952001/Natural-Language-Processing-Labs) | N-grams → Word2Vec → Transformer NMT → Q-LoRA + DPO fine-tuning | `PyTorch` `HuggingFace` `PEFT` `wandb` |
 
 </div>
 
