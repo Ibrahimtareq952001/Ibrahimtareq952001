@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-tareq-aaa403223/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimtareq952@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimtarek_20588)
-[![Resume](https://img.shields.io/badge/Resume_PDF-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Ibrahimtareq952001/Resume/blob/main/resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume_PDF-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Ibrahimtareq952001/Resume/raw/main/resume.pdf)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ibrahimtareq952001&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -71,6 +71,7 @@ const ibrahim = {
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat-square&logo=apache&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 </div>
 
@@ -97,14 +98,14 @@ const ibrahim = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahimtareq952001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimtareq952001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Ibrahimtareq952001" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahimtareq952001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahimtareq952001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Ibrahimtareq952001&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimtareq952001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahimtareq952001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
