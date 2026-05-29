@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimtareq952@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ibrahimtarek_20588)
 [![Resume](https://img.shields.io/badge/Resume_PDF-008080?style=for-the-badge&logo=latex&logoColor=white)](https://github.com/Ibrahimtareq952001/Resume/raw/main/resume.pdf)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00B140?style=for-the-badge&logo=indeed&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ibrahimtareq952001&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -24,6 +25,7 @@ const ibrahim = {
   education:  "B.S. Computer & System Engineering — Alexandria University (2026)",
   focus:      ["Distributed Systems", "Full-Stack SaaS", "HPC", "ML / NLP"],
   currentlyBuilding: "Contabo Cloud Portal — multi-tenant VPS reseller + CD platform",
+  openToWork:  true,
   lookingFor: "Entry-level Software Engineering role",
   funFact:    "I parallelized a 3D seismic solver to 14.1× speedup with MPI 🚀",
 };
@@ -61,6 +63,12 @@ const ibrahim = {
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,kafka&theme=dark" />
 
+**HPC**
+
+![OpenMP](https://img.shields.io/badge/OpenMP-0099CC?style=flat-square&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-8B0000?style=flat-square&logoColor=white)
+![HDF5](https://img.shields.io/badge/HDF5-EE0000?style=flat-square&logoColor=white)
+
 **ML / AI & Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
@@ -70,6 +78,7 @@ const ibrahim = {
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-017CEE?style=flat-square&logo=apache&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
@@ -86,7 +95,7 @@ const ibrahim = {
 | [**Contabo Cloud Portal**](https://github.com/Ibrahimtareq952001/CloudDeploy) | Multi-tenant SaaS — resellers manage VPS + Git-based CD pipeline, 3-tier RBAC | `TypeScript` `React` `Node.js` `PostgreSQL` `Docker` |
 | [**IoT Weather Station**](https://github.com/Ibrahimtareq952001/IoT-Weather-Station-Monitoring-Platform) | 10-station pipeline: Kafka → Kafka Streams → BitCask/Parquet → Kubernetes | `Java` `Kafka` `ElasticSearch` `Kibana` `K8s` |
 | [**TPC-H Data Warehouse**](https://github.com/Ibrahimtareq952001/OLAP) | MySQL → Spark ELT — **19.5× query speedup** over baseline | `Python` `Apache Spark` `NiFi` `Parquet` |
-| **RTM Wave Solver** | 3D seismic solver — OpenMP **7.2×** · MPI **14.1×** speedup | `C` `OpenMP` `MPI` `HDF5` |
+| **RTM Wave Solver** *(🔒 private)* | 3D seismic solver — OpenMP **7.2×** · MPI **14.1×** speedup | `C` `OpenMP` `MPI` `HDF5` |
 | [**Java-to-Bytecode Compiler**](https://github.com/Ibrahimtareq952001/Compilar-Generator) | NFA→DFA lexer + LL(1) parser — full compiler pipeline in C++ | `C++` `Finite Automata` `CFG` |
 | [**NLP Course Labs**](https://github.com/Ibrahimtareq952001/Natural-Language-Processing-Labs) | N-grams → Word2Vec → Transformer NMT → Q-LoRA + DPO fine-tuning | `PyTorch` `HuggingFace` `PEFT` `wandb` |
 
